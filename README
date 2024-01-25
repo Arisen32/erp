@@ -1,0 +1,7 @@
+# Para inciar el entorno virtual
+
+venvERP\Scripts\activate
+
+# Para inicar el proyecto
+
+ python manage.py runserver  
